@@ -1,4 +1,5 @@
-
+import Title  from './Title';
+import Description from './Description';
 import './App.css'
 
 function App() {
@@ -6,7 +7,8 @@ function App() {
 
   return (
     <>
-  
+  <Title/>
+<Description/>
     </>
   )
 }
