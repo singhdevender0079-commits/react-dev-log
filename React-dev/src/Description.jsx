@@ -1,6 +1,6 @@
-function Description(){
+function Description({description}){
     return(
-        <p>My favourite God</p>
+        <p>{description}</p>
     );
 }
 

@@ -1,16 +1,12 @@
-import Title  from './Title';
-import Description from './Description';
+import Card from './TitleTab'
 import './App.css'
 
 function App() {
-  
-
   return (
     <>
-  <Title/>
-<Description/>
+  <Card/>
+
     </>
   )
 }
-
 export default App

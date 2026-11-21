@@ -1,6 +1,6 @@
-function Title(){
+function Title({title}){
     return(
-        <h1>Jai peeran di</h1>
+        <h1>{title}</h1>
     );
 }
 
